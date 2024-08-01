@@ -53,14 +53,14 @@ export default function Home() {
                 name="firstName"
                 id="firstName"
                 type="text"
-                defaultValue="Diego"
+                defaultValue="Giovanni"
               />
             </Input.Root>
             <Input.Root>
               <Input.Control
                 name="lastName"
                 type="text"
-                defaultValue="Fernandes"
+                defaultValue="Vicentin"
               />
             </Input.Root>
           </div>
@@ -82,7 +82,7 @@ export default function Home() {
                 id="email"
                 type="email"
                 name="email"
-                defaultValue="diego.schell.f@gmail.com"
+                defaultValue="giovani@vicentin.com"
               />
             </Input.Root>
           </div>
@@ -204,7 +204,7 @@ export default function Home() {
             <Textarea
               name="bio"
               id="bio"
-              defaultValue="I'm a Product Designer based in Melbourne, Australia. I specialise in UX/UI design, brand strategy, and Webflow development."
+              defaultValue="Desenvolvedor Full Stack com +2 anos de experiência em desenvolvimento web, especializado em React, Next.js e Node.js. Ajudo empresas a inovar e melhorar suas soluções digitais, garantindo experiências de usuário de alta qualidade e eficiência operacional."
             />
           </div>
         </div>
